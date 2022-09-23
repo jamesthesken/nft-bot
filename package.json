@@ -1,0 +1,23 @@
+{
+  "name": "nft-bot",
+  "version": "1.0.0",
+  "description": "Simple discord bot that verifies NFT ownership.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesthesken/nft-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesthesken/nft-bot/issues"
+  },
+  "homepage": "https://github.com/jamesthesken/nft-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.4.0"
+  }
+}
